@@ -1,0 +1,2 @@
+# cdnx1
+static
